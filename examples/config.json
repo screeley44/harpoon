@@ -1,7 +1,7 @@
-{"Url":"http://github.com/redhat-et/harpoon",
-"Directory": "./wiggles",
+{"Url":"http://github.com/screeley44/harpoon",
+"Directory": "./harpoon",
 "Subdirectory": "examples/raw",
-"Branch":"main",
+"Branch":"test-build",
 "Method":"raw",
 "Schedule": "*/1 * * * *"
 }
